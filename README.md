@@ -28,7 +28,7 @@ O sistema permite o cadastro e consulta de sistemas, perfis de acesso, matriz So
 
      `pip install tkinter pandas openpyxl matplotlib` 
 
-#### Para executar
+## Para executar
 
 - Abra o terminal (Linux e Mac) ou prompt de comando (Windows) e navegue até o diretório onde estão os arquivos do projeto.
 - Execute o arquivo principal do projeto com o comando:
@@ -38,7 +38,7 @@ O sistema permite o cadastro e consulta de sistemas, perfis de acesso, matriz So
 - A tela de login será exibida. Insira as credenciais de acesso (usuário: admin, senha: admin) para acessar o sistema e começar a utilizá-lo.
 
 
-### Segue a demonstração
+## Segue a demonstração
 
 Assista ao vídeo de demonstração do sistema no YouTube: [LINK DO VÍDEO]
 
