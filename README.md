@@ -26,16 +26,21 @@ O sistema permite o cadastro e consulta de sistemas, perfis de acesso, matriz So
 2. Clone este repositório para o seu computador ou faça o download dos arquivos.
 3. Instale as bibliotecas necessárias com o seguinte comando:
 
-$\color{green}{pip\install\: tkinter\, pandas\, openpyxl\, matplotlib\}}}$
+     `pip install tkinter pandas openpyxl matplotlib` 
 
-#### Como executar
+#### Para executar
 
-Abra o terminal (Linux e Mac) ou prompt de comando (Windows) e navegue até o diretório onde estão os arquivos do projeto.
-Execute o arquivo principal do projeto com o comando:
-python login.py
+- Abra o terminal (Linux e Mac) ou prompt de comando (Windows) e navegue até o diretório onde estão os arquivos do projeto.
+- Execute o arquivo principal do projeto com o comando:
 
-A tela de login será exibida. Insira as credenciais de acesso (usuário: admin, senha: admin) para acessar o sistema e começar a utilizá-lo.
-Demonstração
+     `python login.py` 
+
+- A tela de login será exibida. Insira as credenciais de acesso (usuário: admin, senha: admin) para acessar o sistema e começar a utilizá-lo.
+
+
+### Segue a demonstração
+
 Assista ao vídeo de demonstração do sistema no YouTube: [LINK DO VÍDEO]
 
+-------
 Este projeto foi desenvolvido como parte de uma avaliação para a disciplina de Desenvolvimento Full Stack na Estacio.
