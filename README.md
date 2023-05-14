@@ -8,22 +8,25 @@ Este projeto é um sistema desenvolvido em Python para gerenciar perfis de acess
 
 O sistema permite o cadastro e consulta de sistemas, perfis de acesso, matriz SoD e perfis associados aos usuários, além de realizar verificações de conflito de interesse ao cadastrar novos perfis para os usuários.
 
-### Funcionalidades
+## Funcionalidades
 
-Cadastro e consulta de sistemas
-Cadastro e consulta de perfis de acesso
-Cadastro e consulta da Matriz SoD
-Cadastro e consulta de perfis associados aos usuários
-Verificação de conflitos de interesse ao cadastrar perfis para usuários
-Importação e exportação de dados em arquivos CSV ou XLSX
-Requisitos
-Python 3.7 ou superior
-Bibliotecas Python: tkinter, pandas, openpyxl, matplotlib
-Instalação
-Instale o Python 3.7 ou superior, caso ainda não tenha: <https://www.python.org/downloads/>
-Clone este repositório para o seu computador ou faça o download dos arquivos.
-Instale as bibliotecas necessárias com o seguinte comando:
-pip install tkinter pandas openpyxl matplotlib
+1. Cadastro e consulta de sistemas
+2. Cadastro e consulta de perfis de acesso
+3. Cadastro e consulta da Matriz SoD
+4. Cadastro e consulta de perfis associados aos usuários
+5. Verificação de conflitos de interesse ao cadastrar perfis para usuários
+6. Importação e exportação de dados em arquivos CSV ou XLSX
+ 
+## Dados Requisitos
+- Python 3.7ou superior
+- Bibliotecas: `tkinter`, `pandas`, `openpyxl`, `matplotlib`
+
+## Para prosseguir à Instalação
+1. Instale o Python 3.7 ou superior, caso ainda não tenha: <https://www.python.org/downloads/>
+2. Clone este repositório para o seu computador ou faça o download dos arquivos.
+3. Instale as bibliotecas necessárias com o seguinte comando:
+
+$\color{green}{pip\install\: tkinter\, pandas\, openpyxl\, matplotlib\}}}$
 
 #### Como executar
 
