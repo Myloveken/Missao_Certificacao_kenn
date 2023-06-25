@@ -139,3 +139,4 @@ def inicializar_janela_principal():
     # Iniciar o loop da aplicação
     tabela_dados = pd.DataFrame()
     janela.mainloop()
+    

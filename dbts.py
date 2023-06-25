@@ -37,3 +37,4 @@ if __name__ == "__main__":
     inserir_nome(conexao, "João")
     exibir_nomes(conexao)
     conexao.close()
+    
